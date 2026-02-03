@@ -113,4 +113,4 @@ The application is deployed on an **AWS EC2 instance**.
 
 ---
 
-*Created by [Your Name]*
+*Created by Sarvesh Mote*
