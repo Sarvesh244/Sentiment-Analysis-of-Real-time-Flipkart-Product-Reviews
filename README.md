@@ -96,7 +96,7 @@ The application is deployed on an **AWS EC2 instance**.
 
 ```
 ├── data.csv                 # Raw dataset
-├── sentiment analysis.py           # Script to train and save the model
+├── sentiment analysis.ipynb           # Script to train and save the model
 ├── streamlitapp.py                   # Streamlit web application
 ├── sentiment_model.pkl      # Saved Machine Learning Model
 ├── vectorizer.pkl           # Saved CountVectorizer
